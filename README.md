@@ -14,3 +14,8 @@
 13. ReverseOnlyLetters: return the "reversed" string where all characters that are not a letter stay in the same place, and all letters reverse their positions.
 14. PalindromicSubstrings: count how many palindromic substrings in this string.
 15. FindDuplicateFileInSystem: you need to find out all the groups of duplicate files in the file system in terms of their paths.
+16. RotatedDigits: Now given a positive number N, how many numbers X from 1 to N are good?
+17. DesignLogStorageSystem: Design a log storage system to implement the required functions.
+18. CountBinarySubstrings:  count the number of non-empty (contiguous) substrings that have the same number of 0's and 1's, and all the 0's and all the 1's in these substrings are grouped consecutively.
+19. DetectCapital: Given a word, you need to judge whether the usage of capitals in it is right or not.
+20. CheckIfWordIsValidAfterSubstitutions: Return true if and only if the given string S is valid.
