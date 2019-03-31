@@ -19,3 +19,6 @@
 18. CountBinarySubstrings:  count the number of non-empty (contiguous) substrings that have the same number of 0's and 1's, and all the 0's and all the 1's in these substrings are grouped consecutively.
 19. DetectCapital: Given a word, you need to judge whether the usage of capitals in it is right or not.
 20. CheckIfWordIsValidAfterSubstitutions: Return true if and only if the given string S is valid.
+21. SpecialBinaryString: 
+22. RansomNote:  write a function that will return true if the ransom note can be constructed from the magazines.
+23. GroupShiftedStrings: group all strings that belong to the same shifting sequence.
